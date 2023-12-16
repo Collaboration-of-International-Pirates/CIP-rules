@@ -17,13 +17,32 @@ CIP shall:
 
 2.2 The Core Values of the CIP include, but are not limited to:
 
-- Freedom: Upholding the right of individuals to pursue their interests and ideas without undue constraint.
-- Equality: Advocating for fair treatment and opportunities for all pirates, irrespective of background or affiliation.
-- Collaboration: Fostering cooperation and mutual support among pirates to achieve common goals.
-- Accountability: Accepting responsibility for individual and collective actions within the pirate community.
-- Transparency: Ensuring openness and clarity in decision-making processes and communication.
+1. We stand for open culture. No one should have the power to prevent the free exchange and expression of ideas, tools, or works.
+
+2. We stand for transparency and openness. Government activities should not be hidden from the public.
+
+3. We stand for individual privacy. The amount of oppression in a society is inversely proportional to its privacy protections. Individuals must be free to make personal decisions that do not harm another person.
+
+4. We are anti-monopoly. No monopoly should be able to prevent works, tools, or ideas from: being freely used, expressed, exchanged, recombined, or taught; nor to violate individual privacy or human rights. A creator's right to be compensated for their work or idea is only acceptable within these limitations.
+
+5. We stand for individuals over institutions. Universal human rights apply only to human beings, and not to corporations, limited liability organizations, or other group entities.
+
+6. We are a post-ideological values-based meritocracy. We place all options on the table. We choose a specific approach because the available evidence shows that it is the best way to promote our values. We do not make decisions based merely on tradition, popularity, authority or political expediency.
+
+7. We are egalitarian. We believe in equality and a level playing field. We accept input from all sources, and we value all people equally.
+
+8. We actively practice these values. We hold ourselves accountable for our own adherence to these principles.
 
 2.3 Collaborators and facilitators of the CIP are expected to uphold and promote these Core Values in all activities and discussions.
+
+2.4 Pirate Community Guidelines
+
+1. Fostering Cooperation: Pirates work together for common goals through mutual support and cooperation.
+
+2. Accepting Responsibility: Individuals take responsibility for their actions within the pirate community.
+
+3. Open Decision-Making: Decision-making processes and communication within the community are transparent and clear.
+
 
 ## Article III: Membership
 
