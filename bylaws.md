@@ -1,131 +1,25 @@
-# Collaboration of International Pirates By-laws
-The following is a brief summary of the purpose and organization of the Collaboration of International Pirates (CIP).
-## Article I: Collaboration of International Pirates
-These by-laws shall govern the association as the Collaboration of International Pirates, hereinafter referred to as the CIP.
-## Article II: Object
-### 1. Mission
-CIP shall:
+# Collaboration of International Pirates
 
-1.1 Give voice to the Core Values of individual pirates.
+## Preamble
+In pursuit of promoting international collaboration and rational discourse within the global pirate movement, we, the leaders of diverse pirate parties, hereby establish the **Collaboration of International Pirates (CIP)** as an external entity, distinct from but  to the International Pirate Party.
 
-1.2 Discuss and create ideas in terms of pirate thought, policy, and other matters.
+## Article I: Membership Criteria
+1. Membership in the IPC is open to recognized pirate parties worldwide. Recognition can be attained through affiliation with the International Pirate Party or acknowledgment from existing recognized pirate party leaders.
 
-1.3 Encourage the initiation and facilitation of talks concerning pirate treaties among pirate parties.
+## Article II: Leadership Structure
+1. The IPC shall be led by a diverse group of leaders, representing different countries and pirate organizations. Leadership appointments will be based on merit and the commitment to the principles outlined in this constitution.
 
-### 2. Core Values
-2.1 The CIP is guided by a set of Core Values that reflect the principles and beliefs of individual pirates.
+## Article III: International Policy Development
+1. The primary focus of the CIP is to facilitate the creation of international policies that align with the principles of transparency, digital rights, and open governance, characteristic of the pirate movement.
 
-2.2 The Core Values of the CIP include, but are not limited to:
+## Article IV: Relationship with International Pirate Party
+1. The CIP acknowledges its role as an external entity and emphasizes that it does not replace the International Pirate Party but aims to enhance the global pirate movement by fostering collaboration and policy development.
 
-1. We stand for open culture. No one should have the power to prevent the free exchange and expression of ideas, tools, or works.
+## Article V: Adoption of Policies
+1. External parties are encouraged to adopt CIP's policies if they find them suitable. This inclusivity fosters a shared vision among like-minded entities, promoting unity within the broader pirate movement.
 
-2. We stand for transparency and openness. Government activities should not be hidden from the public.
+## Article VI: Encouragement of Rational Thought
+1. The CIP places a premium on rational discourse, valuing evidence-based decision-making over emotional reactions. Members are encouraged to engage in thoughtful and constructive discussions for the betterment of the pirate movement.
 
-3. We stand for individual privacy. The amount of oppression in a society is inversely proportional to its privacy protections. Individuals must be free to make personal decisions that do not harm another person.
-
-4. We are anti-monopoly. No monopoly should be able to prevent works, tools, or ideas from: being freely used, expressed, exchanged, recombined, or taught; nor to violate individual privacy or human rights. A creator's right to be compensated for their work or idea is only acceptable within these limitations.
-
-5. We stand for individuals over institutions. Universal human rights apply only to human beings, and not to corporations, limited liability organizations, or other group entities.
-
-6. We are a post-ideological values-based meritocracy. We place all options on the table. We choose a specific approach because the available evidence shows that it is the best way to promote our values. We do not make decisions based merely on tradition, popularity, authority or political expediency.
-
-7. We are egalitarian. We believe in equality and a level playing field. We accept input from all sources, and we value all people equally.
-
-8. We actively practice these values. We hold ourselves accountable for our own adherence to these principles.
-
-2.3 Collaborators and facilitators of the CIP are expected to uphold and promote these Core Values in all activities and discussions.
-
-2.4 Pirate Community Guidelines
-
-1. Fostering Cooperation: Pirates work together for common goals through mutual support and cooperation.
-
-2. Accepting Responsibility: Individuals take responsibility for their actions within the pirate community.
-
-3. Open Decision-Making: Decision-making processes and communication within the community are transparent and clear.
-
-
-## Article III: Membership
-
-### Section 1: Inclusive Approach
-The CIP adopts an inclusive approach with no formal membership requirements. All pirates, regardless of rank or affiliation, are welcome to participate.
-
-### Section 2: Rights and Responsibilities
-2.1 Pirates engaging in CIP activities are entitled to voice their opinions, propose ideas, and contribute to discussions.
-
-2.2 While participation is encouraged, pirates are also expected to respect the Core Values outlined in Article II and maintain a constructive and collaborative environment.
-
-### Section 3: Recognition
-3.1 Collaborators who consistently contribute to the goals of the CIP may receive informal recognition for their dedication and efforts.
-
-3.2 Recognition may include acknowledgment in official communications, opportunities to lead discussions, or other forms of appreciation decided by the General Assembly.
-
-### Section 4: Amendments to Membership Guidelines
-4.1 The General Assembly holds the authority to propose and vote on amendments to membership guidelines to adapt to the evolving needs of the Collaboratio 
-
-4.2 Proposed amendments require a consensus or a predefined majority vote for approval.
-
-## Article IV: Leadership
-
-### Section 1: General Assembly Composition
-The CIP is governed by a General Assembly composed of collaborators and facilitators.
-
-### Section 2: Facilitators' Roles
-2.1 **Election Process:** Facilitators are elected through a democratic process within the General Assembly, allowing all pirates to nominate, discuss, and vote.
-
-2.2 **Qualifications:** Candidates for facilitator roles should have a demonstrated commitment to the Core Values and goals of the CIP.
-
-### Section 3: Term Limits
-3.1 Facilitators may serve terms of [X] months, with the option for re-election, to promote diversity in leadership and prevent concentration of power.
-
-3.2 In the event of a facilitator stepping down before the completion of their term, a special election will be held to fill the vacancy.
-
-
-## Article V: Meetings
-
-### Encouragement of Asynchronous Idea Sharing
-
-1. **Platform Utilization:** The CIP shall provide a dedicated platform for asynchronous idea sharing to accommodate diverse schedules.
-
-### Selection of Facilitators
-
-1. **Appointment Process:** The General Assembly shall collectively decide on facilitator appointments through a nomination, discussion, and voting process.
-
-2. **Term Commencement:** Newly elected facilitators shall assume their roles following a successful election, promoting a smooth transition.
-
-### General Assembly Meetings
-
-1. **Frequency:** Regular and special General Assembly meetings shall be scheduled as needed to address ongoing issues and strategic planning.
-
-2. **Agenda Preparation:** Meeting agendas shall be prepared and circulated in advance, allowing collaborators to adequately prepare and contribute.
-
-3. **Documentation:** Comprehensive minutes of meetings shall be documented and made available to all collaborators for transparency and accountability.
-
-These by-laws, collectively, shall guide the operation and development of the Collaboration of International Pirates.
-
-## Article VI: Dissolution and Archive
-
-### Section 1: Dissolution Process
-
-1.1 In the event that the CIP faces insurmountable challenges or a consensus is reached within the General Assembly, a proposal for dissolution may be presented.
-
-1.2 The dissolution proposal will undergo a democratic voting process, requiring a predefined majority for approval.
-
-### Section 2: Asset Distribution
-
-2.1 In the event of dissolution, any remaining assets, financial or otherwise, shall be distributed in accordance with the decisions made by the General Assembly.
-
-2.2 Assets may be allocated to support related pirate initiatives, organizations, or causes that align with the CIP's mission and values.
-
-### Section 3: Archive and Historical Preservation
-
-3.1 Prior to dissolution, the CIP shall develop a plan for archiving relevant documents, discussions, and historical records.
-
-3.2 An archival process will be established to ensure that the collective knowledge and history of the CIP are preserved for future reference and research.
-
-### Section 4: End Game Takeover or Trust by External Entities
-
-4.1 In the event of the CIP facing challenges that require external intervention, such as financial instability, loss of leadership, or a significant decline in participation, external entities like the Pirate Party International (PPI) may be invited to assume a temporary oversight role.
-
-4.2 The involvement of external entities will be contingent upon a transparent and agreed-upon process, ensuring that the mission and values of the CIP are respected during any transitional phase.
-
-4.3 Trust agreements or legal arrangements may be established to safeguard the interests of the CIP and its community during external involvement.
+## Conclusion
+In establishing the International Pirate Consortium, we aspire to create a dynamic platform for international collaboration, recognizing the diversity of the global pirate movement. By prioritizing rational thought and policy development, the CIP seeks to contribute to the evolution and enhancement of the principles shared by pirate parties worldwide.
