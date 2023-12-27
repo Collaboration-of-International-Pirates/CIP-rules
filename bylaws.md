@@ -10,7 +10,7 @@ CIP shall:
 
 1.2 Discuss and create ideas in terms of pirate thought, policy, and other matters.
 
-1.3 Encourage the initiation and facilitation of talks concerning pirate treaties among pirate parties.
+1.3 Encourage of talks concerning pirate treaties among pirates.
 
 ### 2. Core Values
 2.1 The CIP is guided by a set of Core Values that reflect the principles and beliefs of individual pirates.
